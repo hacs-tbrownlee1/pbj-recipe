@@ -1,0 +1,40 @@
+html {
+    background-color: bisque;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: monospace;
+    border: 2px solid darkgoldenrod;
+    width: 50%;
+    margin: 2% auto;
+    padding: 2% 5%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+.more-funky {
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+    background-color: #100;
+}
+
+.crossed-out {
+    text-decoration: line-through;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #aa0000;
+}
+
+a:visited {
+    color: #aa0000;
+}
